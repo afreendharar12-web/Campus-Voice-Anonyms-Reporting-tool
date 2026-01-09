@@ -1,0 +1,199 @@
+2025-09-25 18:10:28,440 [INFO] - Successfully connected to the database.
+2025-09-25 18:10:28,485 [INFO] - Database tables are ready.
+2025-09-25 18:10:28,513 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.216.163.76:8080
+2025-09-25 18:10:28,513 [INFO] - [33mPress CTRL+C to quit[0m
+2025-09-25 18:10:28,517 [INFO] -  * Restarting with stat
+2025-09-25 18:10:28,902 [INFO] - Successfully connected to the database.
+2025-09-25 18:10:28,913 [INFO] - Database tables are ready.
+2025-09-25 18:10:28,920 [WARNING] -  * Debugger is active!
+2025-09-25 18:10:28,926 [INFO] -  * Debugger PIN: 916-879-117
+2025-09-25 19:59:39,040 [INFO] - 127.0.0.1 - - [25/Sep/2025 19:59:39] "OPTIONS /api/reports HTTP/1.1" 200 -
+2025-09-25 19:59:39,337 [INFO] - New report created with ID: eee0fb0e-bb01-4542-a7f2-e6e037923729
+2025-09-25 19:59:39,339 [INFO] - 127.0.0.1 - - [25/Sep/2025 19:59:39] "[35m[1mPOST /api/reports HTTP/1.1[0m" 201 -
+2025-09-25 20:00:01,311 [INFO] - 127.0.0.1 - - [25/Sep/2025 20:00:01] "GET /api/reports/star-cedar-356 HTTP/1.1" 200 -
+2025-09-27 11:56:46,548 [INFO] - Successfully connected to the database.
+2025-09-27 11:56:46,579 [INFO] - Database tables are ready.
+2025-09-27 11:56:46,611 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.216.163.76:8080
+2025-09-27 11:56:46,612 [INFO] - [33mPress CTRL+C to quit[0m
+2025-09-27 11:56:46,618 [INFO] -  * Restarting with stat
+2025-09-27 11:56:47,063 [INFO] - Successfully connected to the database.
+2025-09-27 11:56:47,066 [INFO] - Database tables are ready.
+2025-09-27 11:56:47,078 [WARNING] -  * Debugger is active!
+2025-09-27 11:56:47,085 [INFO] -  * Debugger PIN: 916-879-117
+2025-09-27 12:03:09,004 [INFO] - 127.0.0.1 - - [27/Sep/2025 12:03:09] "OPTIONS /api/reports HTTP/1.1" 200 -
+2025-09-27 12:03:09,365 [INFO] - New report created with ID: fe2c4c1a-4d82-42a1-8d67-bbcff0a3cf44
+2025-09-27 12:03:09,366 [INFO] - 127.0.0.1 - - [27/Sep/2025 12:03:09] "[35m[1mPOST /api/reports HTTP/1.1[0m" 201 -
+2025-09-27 12:03:28,730 [INFO] - 127.0.0.1 - - [27/Sep/2025 12:03:28] "GET /api/reports/koala-lily-631 HTTP/1.1" 200 -
+2025-10-07 21:21:14,644 [INFO] - Successfully connected to the database.
+2025-10-07 21:21:14,655 [INFO] - Database tables are ready.
+2025-10-07 21:21:14,669 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.34.90.76:8080
+2025-10-07 21:21:14,669 [INFO] - [33mPress CTRL+C to quit[0m
+2025-10-07 21:21:14,672 [INFO] -  * Restarting with stat
+2025-10-07 21:21:14,936 [INFO] - Successfully connected to the database.
+2025-10-07 21:21:14,938 [INFO] - Database tables are ready.
+2025-10-07 21:21:14,944 [WARNING] -  * Debugger is active!
+2025-10-07 21:21:14,949 [INFO] -  * Debugger PIN: 916-879-117
+2025-10-07 21:26:20,829 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:26:20] "OPTIONS /api/admin/login HTTP/1.1" 200 -
+2025-10-07 21:26:21,077 [INFO] - Admin login successful.
+2025-10-07 21:26:21,078 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:26:21] "POST /api/admin/login HTTP/1.1" 200 -
+2025-10-07 21:26:21,213 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:26:21] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-07 21:34:51,884 [INFO] - Successfully connected to the database.
+2025-10-07 21:34:51,886 [INFO] - Database tables are ready.
+2025-10-07 21:34:51,897 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.34.90.76:8080
+2025-10-07 21:34:51,898 [INFO] - [33mPress CTRL+C to quit[0m
+2025-10-07 21:34:51,901 [INFO] -  * Restarting with stat
+2025-10-07 21:34:52,190 [INFO] - Successfully connected to the database.
+2025-10-07 21:34:52,192 [INFO] - Database tables are ready.
+2025-10-07 21:34:52,198 [WARNING] -  * Debugger is active!
+2025-10-07 21:34:52,202 [INFO] -  * Debugger PIN: 916-879-117
+2025-10-07 21:35:42,887 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:35:42] "OPTIONS /api/admin/login HTTP/1.1" 200 -
+2025-10-07 21:35:43,155 [INFO] - Admin login successful.
+2025-10-07 21:35:43,158 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:35:43] "POST /api/admin/login HTTP/1.1" 200 -
+2025-10-07 21:35:43,282 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:35:43] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-07 21:35:48,662 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:35:48] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-07 21:35:51,181 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:35:51] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-07 21:44:48,350 [INFO] - Successfully connected to the database.
+2025-10-07 21:44:48,352 [INFO] - Database tables are ready.
+2025-10-07 21:44:48,363 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.34.90.76:8080
+2025-10-07 21:44:48,363 [INFO] - [33mPress CTRL+C to quit[0m
+2025-10-07 21:44:48,365 [INFO] -  * Restarting with stat
+2025-10-07 21:44:48,591 [INFO] - Successfully connected to the database.
+2025-10-07 21:44:48,592 [INFO] - Database tables are ready.
+2025-10-07 21:44:48,598 [WARNING] -  * Debugger is active!
+2025-10-07 21:44:48,602 [INFO] -  * Debugger PIN: 916-879-117
+2025-10-07 21:52:03,496 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:52:03] "OPTIONS /api/admin/login HTTP/1.1" 200 -
+2025-10-07 21:52:03,749 [INFO] - Admin login successful.
+2025-10-07 21:52:03,753 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:52:03] "POST /api/admin/login HTTP/1.1" 200 -
+2025-10-07 21:52:03,840 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:52:03] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-07 21:55:23,695 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:55:23] "OPTIONS /api/admin/login HTTP/1.1" 200 -
+2025-10-07 21:55:23,934 [INFO] - Admin login successful.
+2025-10-07 21:55:23,935 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:55:23] "POST /api/admin/login HTTP/1.1" 200 -
+2025-10-07 21:55:24,031 [INFO] - 127.0.0.1 - - [07/Oct/2025 21:55:24] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-07 22:49:05,836 [INFO] - 127.0.0.1 - - [07/Oct/2025 22:49:05] "OPTIONS /api/reports HTTP/1.1" 200 -
+2025-10-07 22:49:06,142 [INFO] - New report created with ID: 1b246579-06c9-4671-a0c7-d3775b2ad380
+2025-10-07 22:49:06,144 [INFO] - 127.0.0.1 - - [07/Oct/2025 22:49:06] "[35m[1mPOST /api/reports HTTP/1.1[0m" 201 -
+2025-10-07 22:49:49,051 [INFO] - 127.0.0.1 - - [07/Oct/2025 22:49:49] "OPTIONS /api/admin/login HTTP/1.1" 200 -
+2025-10-07 22:49:49,368 [INFO] - Admin login successful.
+2025-10-07 22:49:49,369 [INFO] - 127.0.0.1 - - [07/Oct/2025 22:49:49] "POST /api/admin/login HTTP/1.1" 200 -
+2025-10-07 22:49:49,650 [INFO] - 127.0.0.1 - - [07/Oct/2025 22:49:49] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-07 22:50:29,309 [INFO] - 127.0.0.1 - - [07/Oct/2025 22:50:29] "OPTIONS /api/admin/reports/1b246579-06c9-4671-a0c7-d3775b2ad380/update HTTP/1.1" 200 -
+2025-10-07 22:50:29,609 [INFO] - Report 1b246579-06c9-4671-a0c7-d3775b2ad380 updated to status Under Investigation
+2025-10-07 22:50:29,611 [INFO] - 127.0.0.1 - - [07/Oct/2025 22:50:29] "POST /api/admin/reports/1b246579-06c9-4671-a0c7-d3775b2ad380/update HTTP/1.1" 200 -
+2025-10-07 22:50:31,639 [INFO] - 127.0.0.1 - - [07/Oct/2025 22:50:31] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-07 22:50:51,281 [INFO] - 127.0.0.1 - - [07/Oct/2025 22:50:51] "GET /api/reports/mountain-falcon-158 HTTP/1.1" 200 -
+2025-10-08 07:11:03,733 [INFO] - Successfully connected to the database.
+2025-10-08 07:11:03,747 [INFO] - Database tables are ready.
+2025-10-08 07:11:03,765 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.34.90.76:8080
+2025-10-08 07:11:03,765 [INFO] - [33mPress CTRL+C to quit[0m
+2025-10-08 07:11:03,769 [INFO] -  * Restarting with stat
+2025-10-08 07:11:04,047 [INFO] - Successfully connected to the database.
+2025-10-08 07:11:04,049 [INFO] - Database tables are ready.
+2025-10-08 07:11:04,057 [WARNING] -  * Debugger is active!
+2025-10-08 07:11:04,062 [INFO] -  * Debugger PIN: 916-879-117
+2025-10-08 07:12:07,885 [INFO] - 127.0.0.1 - - [08/Oct/2025 07:12:07] "OPTIONS /api/admin/login HTTP/1.1" 200 -
+2025-10-08 07:12:08,128 [INFO] - Admin login successful.
+2025-10-08 07:12:08,129 [INFO] - 127.0.0.1 - - [08/Oct/2025 07:12:08] "POST /api/admin/login HTTP/1.1" 200 -
+2025-10-08 07:12:08,437 [INFO] - 127.0.0.1 - - [08/Oct/2025 07:12:08] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-08 07:21:53,440 [INFO] - 127.0.0.1 - - [08/Oct/2025 07:21:53] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-08 07:31:33,569 [INFO] - 127.0.0.1 - - [08/Oct/2025 07:31:33] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-08 07:32:44,571 [INFO] - 127.0.0.1 - - [08/Oct/2025 07:32:44] "GET /api/reports/mountain-falcon-158 HTTP/1.1" 200 -
+2025-10-08 08:40:53,940 [INFO] - 127.0.0.1 - - [08/Oct/2025 08:40:53] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-08 08:40:55,098 [INFO] - 127.0.0.1 - - [08/Oct/2025 08:40:55] "GET /api/reports/mountain-falcon-158 HTTP/1.1" 200 -
+2025-10-08 15:28:13,894 [INFO] - Successfully connected to the database.
+2025-10-08 15:28:13,932 [INFO] - Database tables are ready.
+2025-10-08 15:28:13,958 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.34.90.76:8080
+2025-10-08 15:28:13,959 [INFO] - [33mPress CTRL+C to quit[0m
+2025-10-08 15:28:13,965 [INFO] -  * Restarting with stat
+2025-10-08 15:28:14,528 [INFO] - Successfully connected to the database.
+2025-10-08 15:28:14,533 [INFO] - Database tables are ready.
+2025-10-08 15:28:14,553 [WARNING] -  * Debugger is active!
+2025-10-08 15:28:14,563 [INFO] -  * Debugger PIN: 916-879-117
+2025-10-08 20:39:13,748 [INFO] - Successfully connected to the database.
+2025-10-08 20:39:13,791 [INFO] - Database tables are ready.
+2025-10-08 20:39:13,816 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.34.90.76:8080
+2025-10-08 20:39:13,817 [INFO] - [33mPress CTRL+C to quit[0m
+2025-10-08 20:39:13,822 [INFO] -  * Restarting with stat
+2025-10-08 20:39:14,301 [INFO] - Successfully connected to the database.
+2025-10-08 20:39:14,305 [INFO] - Database tables are ready.
+2025-10-08 20:39:14,314 [WARNING] -  * Debugger is active!
+2025-10-08 20:39:14,322 [INFO] -  * Debugger PIN: 916-879-117
+2025-10-08 20:39:59,464 [INFO] - 127.0.0.1 - - [08/Oct/2025 20:39:59] "OPTIONS /api/admin/login HTTP/1.1" 200 -
+2025-10-08 20:39:59,709 [INFO] - Admin login successful.
+2025-10-08 20:39:59,711 [INFO] - 127.0.0.1 - - [08/Oct/2025 20:39:59] "POST /api/admin/login HTTP/1.1" 200 -
+2025-10-08 20:39:59,990 [INFO] - 127.0.0.1 - - [08/Oct/2025 20:39:59] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-08 20:40:32,030 [INFO] - 127.0.0.1 - - [08/Oct/2025 20:40:32] "OPTIONS /api/admin/reports/fe2c4c1a-4d82-42a1-8d67-bbcff0a3cf44/update HTTP/1.1" 200 -
+2025-10-08 20:40:32,383 [INFO] - Report fe2c4c1a-4d82-42a1-8d67-bbcff0a3cf44 updated to status Received
+2025-10-08 20:40:32,384 [INFO] - 127.0.0.1 - - [08/Oct/2025 20:40:32] "POST /api/admin/reports/fe2c4c1a-4d82-42a1-8d67-bbcff0a3cf44/update HTTP/1.1" 200 -
+2025-10-08 20:40:36,325 [INFO] - 127.0.0.1 - - [08/Oct/2025 20:40:36] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 08:28:26,266 [INFO] - Successfully connected to the database.
+2025-10-09 08:28:26,300 [INFO] - Database tables are ready.
+2025-10-09 08:28:26,329 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.34.90.76:8080
+2025-10-09 08:28:26,331 [INFO] - [33mPress CTRL+C to quit[0m
+2025-10-09 08:28:26,337 [INFO] -  * Restarting with stat
+2025-10-09 08:28:26,860 [INFO] - Successfully connected to the database.
+2025-10-09 08:28:26,866 [INFO] - Database tables are ready.
+2025-10-09 08:28:26,880 [WARNING] -  * Debugger is active!
+2025-10-09 08:28:26,888 [INFO] -  * Debugger PIN: 916-879-117
+2025-10-09 08:29:00,472 [INFO] - 127.0.0.1 - - [09/Oct/2025 08:29:00] "OPTIONS /api/admin/login HTTP/1.1" 200 -
+2025-10-09 08:29:00,721 [INFO] - Admin login successful.
+2025-10-09 08:29:00,723 [INFO] - 127.0.0.1 - - [09/Oct/2025 08:29:00] "POST /api/admin/login HTTP/1.1" 200 -
+2025-10-09 08:29:00,809 [INFO] - 127.0.0.1 - - [09/Oct/2025 08:29:00] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 08:29:41,981 [INFO] - 127.0.0.1 - - [09/Oct/2025 08:29:41] "OPTIONS /api/reports HTTP/1.1" 200 -
+2025-10-09 08:29:42,356 [INFO] - New report created with ID: 11198f3c-8e8c-43bc-b8c0-6c12406c6def
+2025-10-09 08:29:42,357 [INFO] - 127.0.0.1 - - [09/Oct/2025 08:29:42] "[35m[1mPOST /api/reports HTTP/1.1[0m" 201 -
+2025-10-09 08:30:01,998 [INFO] - 127.0.0.1 - - [09/Oct/2025 08:30:01] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 09:00:56,986 [INFO] - 127.0.0.1 - - [09/Oct/2025 09:00:56] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 09:01:23,139 [INFO] - 127.0.0.1 - - [09/Oct/2025 09:01:23] "GET /api/reports/blue-dolphin-777 HTTP/1.1" 200 -
+2025-10-09 09:23:05,519 [INFO] - 127.0.0.1 - - [09/Oct/2025 09:23:05] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 09:28:35,837 [INFO] - 127.0.0.1 - - [09/Oct/2025 09:28:35] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 09:41:00,012 [INFO] - 127.0.0.1 - - [09/Oct/2025 09:41:00] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 10:16:16,941 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:16:16] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 10:17:15,978 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:17:15] "OPTIONS /api/admin/login HTTP/1.1" 200 -
+2025-10-09 10:17:16,300 [INFO] - Admin login successful.
+2025-10-09 10:17:16,301 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:17:16] "POST /api/admin/login HTTP/1.1" 200 -
+2025-10-09 10:17:16,561 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:17:16] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 10:36:17,257 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:36:17] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 10:37:33,258 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:37:33] "OPTIONS /api/admin/login HTTP/1.1" 200 -
+2025-10-09 10:37:33,514 [INFO] - Admin login successful.
+2025-10-09 10:37:33,515 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:37:33] "POST /api/admin/login HTTP/1.1" 200 -
+2025-10-09 10:37:33,581 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:37:33] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 10:49:15,556 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:49:15] "OPTIONS /api/reports HTTP/1.1" 200 -
+2025-10-09 10:49:15,890 [INFO] - New report created with ID: 6bef95c2-86ec-489e-81d5-054a40d4079d
+2025-10-09 10:49:15,892 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:49:15] "[35m[1mPOST /api/reports HTTP/1.1[0m" 201 -
+2025-10-09 10:49:52,834 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:49:52] "GET /api/reports/breeze-green-414 HTTP/1.1" 200 -
+2025-10-09 10:50:07,102 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:50:07] "OPTIONS /api/admin/login HTTP/1.1" 200 -
+2025-10-09 10:50:07,358 [INFO] - Admin login successful.
+2025-10-09 10:50:07,360 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:50:07] "POST /api/admin/login HTTP/1.1" 200 -
+2025-10-09 10:50:07,421 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:50:07] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 10:50:35,040 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:50:35] "OPTIONS /api/admin/reports/6bef95c2-86ec-489e-81d5-054a40d4079d/update HTTP/1.1" 200 -
+2025-10-09 10:50:35,370 [INFO] - Report 6bef95c2-86ec-489e-81d5-054a40d4079d updated to status Received
+2025-10-09 10:50:35,371 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:50:35] "POST /api/admin/reports/6bef95c2-86ec-489e-81d5-054a40d4079d/update HTTP/1.1" 200 -
+2025-10-09 10:50:37,671 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:50:37] "GET /api/admin/reports HTTP/1.1" 200 -
+2025-10-09 10:50:45,444 [INFO] - 127.0.0.1 - - [09/Oct/2025 10:50:45] "GET /api/reports/breeze-green-414 HTTP/1.1" 200 -
